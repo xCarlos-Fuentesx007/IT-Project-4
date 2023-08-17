@@ -18,7 +18,7 @@ Active Directory Domain Services (AD DS) provides a directory service that you c
 1. Created the savn.local domain and promoted your Carlos-S19-S1 to be the domain controller.
 2. Configured Carlos-S19-S2 to join the savn.local domain.
 3. Configured your Carlos-W10-C1 VM to join the savn.local domain.
-4. All VMs correctly joined the savn.local domain. From the Active Directory Users and Computers tool in Carlos-S19-S1, shows both
+4. All VMs correctly joined the savn.local domain. From the Active Directory Users and Computers tool in Carlos-S19-S1, show both
    Carlos-S19-S2 and Carlos-W10-C1 as members of the savn.local domain.
 
 ------------------------------------------------------------------------------------------------------------------------------------------
